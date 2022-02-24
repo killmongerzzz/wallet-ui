@@ -1,0 +1,11 @@
+{
+  "short_name": "RingCentral SMS APP",
+  "name": "RingCentral SMS APP",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
